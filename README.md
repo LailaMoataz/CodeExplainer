@@ -91,9 +91,8 @@ I teach AI and deep learning (Assistant Lecturer, PhD candidate researching
 explainable deep learning for medical imaging) and build small practical
 tools like this one alongside my course material.
 
-- 🎥 YouTube: **[add your channel link]**
-- 🎓 Course (build a chatbot with OpenAI/Gemini APIs): **[add your Udemy link]**
-- 💼 LinkedIn: **[add your LinkedIn link]**
+- 🎥 YouTube: **[https://www.youtube.com/@LailaTeachesAI]**
+- 💼 LinkedIn: **[https://www.linkedin.com/in/laila-moataz/]**
 
 ## License
 
